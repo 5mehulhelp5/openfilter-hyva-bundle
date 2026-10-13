@@ -1,0 +1,29 @@
+{
+    "name": "iranimij/openfilter-hyva-bundle",
+    "description": "OpenFilter for Hyvä in one require: layered navigation for Magento 2 and Hyvä (core, Hyvä render package and the shared base module). Free and MIT.",
+    "type": "metapackage",
+    "license": "MIT",
+    "keywords": ["magento2", "mage-os", "hyva", "layered-navigation", "ajax-filters", "opensearch", "openfilter"],
+    "homepage": "https://github.com/iranimij/openfilter",
+    "support": {
+        "issues": "https://github.com/iranimij/openfilter/issues",
+        "source": "https://github.com/iranimij/openfilter-hyva-bundle",
+        "docs": "https://github.com/iranimij/openfilter/tree/main/docs"
+    },
+    "authors": [
+        {
+            "name": "Iman Aboheydary",
+            "homepage": "https://github.com/iranimij"
+        }
+    ],
+    "require": {
+        "iranimij/module-base": "^1.0",
+        "iranimij/openfilter": "^1.0",
+        "iranimij/openfilter-hyva": "^1.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.0.x-dev"
+        }
+    }
+}
