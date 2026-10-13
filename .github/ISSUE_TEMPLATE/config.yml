@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Bugs and ideas
+    url: https://github.com/iranimij/openfilter/issues/new/choose
+    about: OpenFilter's issues live in the core repository.
+  - name: Security issue
+    url: https://github.com/iranimij/openfilter/security/policy
+    about: Please do not open public issues for security problems.
