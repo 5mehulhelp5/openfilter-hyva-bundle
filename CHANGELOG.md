@@ -2,6 +2,11 @@
 
 All notable changes to this project are documented here. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses [Semantic Versioning](https://semver.org/).
 
+## [1.1.0-rc1] - 2026-10-16
+
+### Changed
+- Requires `iranimij/openfilter` ^1.1 and `iranimij/openfilter-hyva` ^1.1 (OpenFilter 1.1: AND logic, price ranges, category tree, storefront modes, SEO templates, sitemap, GraphQL, REST).
+
 ## [1.0.0] - 2026-10-16
 
 No changes since 1.0.0-rc1.
