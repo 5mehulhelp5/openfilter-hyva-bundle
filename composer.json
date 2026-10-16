@@ -18,12 +18,12 @@
     ],
     "require": {
         "iranimij/module-base": "^1.0",
-        "iranimij/openfilter": "^1.0",
-        "iranimij/openfilter-hyva": "^1.0"
+        "iranimij/openfilter": "^1.1",
+        "iranimij/openfilter-hyva": "^1.1"
     },
     "extra": {
         "branch-alias": {
-            "dev-main": "1.0.x-dev"
+            "dev-main": "1.1.x-dev"
         }
     }
 }
